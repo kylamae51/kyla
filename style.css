@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box1 img{
+    border-radius: 100%;
+    position: absolute;
+    margin-left: 1200px;
+    height:500px ;
+    width: 500px;
+    margin-top: 200px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(236, 236, 236);
+  }
+  .name{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+  }
+  .name1{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 50px;
+  }
+.intro{
+    color: white;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 50px;
+}
+.skill{
+  color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 50px;
+}
+.skill1{
+  color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 50px;
+}
+.skill2{
+  color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 50px;
+}
+.skill3{
+  color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 50px;
+}
+.skill4{
+  color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 750px;
+    margin-left: 50px;
+}
